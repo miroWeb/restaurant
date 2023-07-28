@@ -5,7 +5,7 @@ function App() {
     <div>
       <h1>salom Alik alik
         DEWJHIDEWFJEWOIF
-        ...
+        ...nimweine
       </h1>
     </div>
   )
